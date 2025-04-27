@@ -1,6 +1,9 @@
-# UTS Kecerdasan Buatan 2024/2025
-**Nama:** (Isi Nama Kamu)  
-**NIM:** (Isi NIM Kamu)  
+# UTS Kecerdasan Buatan 2025
+
+**Nama:** M.jamil alfadilah
+
+**NIM:** 2306022
+
 **Dosen:** Leni Fitriani, S.T., M.Kom
 
 ---
